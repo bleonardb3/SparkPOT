@@ -10,7 +10,8 @@
 
 Use IBM’s Data Science Experience (DSX) and BlueMix cloud services to learn and explore Spark.  Participants will be led through a series of three labs that showcase various aspects of the Spark architechure.
 
-1. [Lab-1](Lab-1) - The first lab will begin with basic Spark fundamentals such as RDDs and map-reduce paradigms using a Jupyter notebook in DSX with python.
+1. [Lab-1](Lab-1) -The first lab will begin with basic Spark fundamentals using the DataFrame API in a Jupyter notebook in DSX with Python
+
 
 1. [Lab-2](Lab-2) - The second lab will explore Spark SQL working with the data in Spark and connecting to an external database in Bluemix.
 
