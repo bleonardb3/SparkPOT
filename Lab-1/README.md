@@ -11,8 +11,8 @@ In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyte
 Upon completing the lab, you will know how to:
 
 1. Create a Jupyter IPython notebook from a URL
-1. Create an RDD
-1. Learn and apply Map-Reduce 
+1. Create DataFrames
+1. Learn and apply the DataFrame API
 
 ## Instructions:
 
