@@ -30,7 +30,7 @@ Upon completing the lab, you will know how to:
 
 1. Click the `From URL` tab under `Create Notebook`.
 1. Give the notebook a name in the `Name` field, for example `Spark Lab-1` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://github.com/bleonardb3/SparkPOT/blob/master/Lab-1/Lab1Student%20-%20DataFrame.ipynb`.
+1. In the Notebook URL field, use `https://github.com/bleonardb3/SparkPOT/blob/master/Lab-1/Lab1Student-DataFrame.ipynb`.
 1. Ensure that there is a `Spark Service` selected, then click the `Create Notebook` button on the bottom right of the screen.
 
 ### Step 4.  Follow the instructions in the notebook.
