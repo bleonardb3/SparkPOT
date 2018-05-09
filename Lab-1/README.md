@@ -4,7 +4,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to examine the basic principles of Spark such as RDDs, Dataframes and Map-Reduce.
+In this lab, you will use IBM's Watson Studio to create a Jupyter notebook to examine the basic principles of Spark such as RDDs, Dataframes and Map-Reduce.
 
 ## Objectives:
 
