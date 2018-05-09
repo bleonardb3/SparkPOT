@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/DSX.png" height="150"/>](http://datascience.ibm.com/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/index.html)
 
-In this lab, you will use IBM's Data Science Experience (DSX) to create a Jupyter IPython notebook to examine the basic principles of Spark SQL.
+In this lab, you will use IBM's Watson Studio to create a Jupyter notebook to examine the basic principles of Spark SQL.
 
 ## Objectives:
 
@@ -15,13 +15,13 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Log into your [DSX](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
+### Step 1.  Log into your [Watson Studio](http://datascience.ibm.com/) account, then select `View All Projects`, then select the project you created at the beginning of this proof of technology.
 
 > <img src="https://raw.githubusercontent.com/jpatter/Proof-of-Technology/master/DSX/Lab-1/images/DSX-open-project.png"/>
 
-### Step 2.  Click the `add notebooks` link in the top right of your project pane.
+### Step 2.  Click the `Add to project` link and then the `Notebook` link as shown below. 
 
-> <img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/Lab-1/images/DSX-add-notebook.png"/>
+> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Add%20Notebook.png"/>
 
 ### Step 3.  Create the notebook.
 
