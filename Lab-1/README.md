@@ -1,4 +1,4 @@
-# Setting up your first DSX notebook
+# Setting up your first Watson Studio notebook
 
 ## Introduction:
 
