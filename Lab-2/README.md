@@ -9,9 +9,8 @@ In this lab, you will use IBM's Watson Studio to create a Jupyter notebook to ex
 
 Upon completing the lab, you will know how to:
 
-1. Create a Spark SQL Context
 1. Create and use Spark SQL queries
-1. Connect to an external database and read data 
+
 
 ## Instructions:
 
