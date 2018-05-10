@@ -8,7 +8,7 @@
 [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/jupyter.png" height="150"/>](http://jupyter.org/) [<img src="https://raw.githubusercontent.com/Davin-IBM/Proof-of-Technology/master/DSX/images/spark.png" height="150"/>](http://spark.apache.org/)
 
 
-Use IBM’s Data Science Experience (DSX) and BlueMix cloud services to learn and explore Spark.  Participants will be led through a series of three labs that showcase various aspects of the Spark architechure.
+Use IBM’s Watson Studio and IBM cloud services to learn and explore Spark.  Participants will be led through a series of three labs that showcase various aspects of the Spark architechure.
 
 1. [Lab-1](Lab-1) -The first lab will begin with basic Spark fundamentals using the DataFrame API in a Jupyter notebook in Watson Studio. 
 
